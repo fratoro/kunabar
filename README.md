@@ -5,7 +5,7 @@ A beautiful, lightweight macOS menu bar app for time tracking with [Hakuna](http
 ![macOS 26.0+](https://img.shields.io/badge/macOS-26.0+-blue)
 ![Swift 6](https://img.shields.io/badge/Swift-6-orange)
 
-![Screenshot](screenshots/screenshot-20251205-qLgzvZDG@2x.png)
+![Screenshot](https://raw.githubusercontent.com/fratoro/kunabar/refs/heads/main/screenshot/screenshot-20251205-qLgzvZDG%402x.png)
 
 ## Features
 
