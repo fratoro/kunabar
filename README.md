@@ -5,6 +5,8 @@ A beautiful, lightweight macOS menu bar app for time tracking with [Hakuna](http
 ![macOS 26.0+](https://img.shields.io/badge/macOS-26.0+-blue)
 ![Swift 6](https://img.shields.io/badge/Swift-6-orange)
 
+![Screenshot](screenshots/screenshot-20251205-qLgzvZDG@2x.png)
+
 ## Features
 
 - 🎯 **Menu Bar Only** - No dock icon, stays out of your way
